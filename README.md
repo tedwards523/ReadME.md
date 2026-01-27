@@ -2,12 +2,12 @@
 # Questions
 
 1. Course communication will happen on (check all that apply)
-[x] The learning management system (courseplus or canvass)
-[ ] Email
-[ ] Slack
-[x] Teams
-[ ] SIS
-[x] Online office hours over Teams
+*[x] The learning management system (courseplus or canvass)
+*[ ] Email
+*[ ] Slack
+*[x] Teams
+*[ ] SIS
+*[x] Online office hours over Teams
 
 2. If you need to communicate with the TAs or instructor you should (note if set up for the specific class, you can also use Teams)
 [x] Ask in class or office hours or email intructors or TA
